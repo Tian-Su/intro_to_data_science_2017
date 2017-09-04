@@ -5,15 +5,35 @@ Follow the instruction in class01 to set up the environment and clone the github
 
 ### TODO
 
-1. download anaconda (30 minutes)
-2. setup conda environment. name it `itds_bootcamp`. (30 minutes)
-3. fork Tian's github and clone it to your local machine. (30 minutes)
-4. Students who participate in the previous classes:
+* download anaconda (30 minutes)
+* setup conda environment. name it `itds_bootcamp`. (30 minutes)
+
+
+```
+to set up conda environment follow the instruction in class01.
+go into the environment you created. you should see your command line prompt has the environment name specified at the beginning.
+```
+
+* fork Tian's github and clone it to your local machine. (30 minutes) 
+
+
+```
+"Fork" is done through the github website. 
+Clone is done through the command line. 
+	To learn how to clone, follow instruction in class01.
+Be conscious about where you put/cloned the folder. the location you executed "git clone" is the location of the intro_to_data_science_2017 folder.
+```
+
+* Students who participate in the previous classes:
 	
 	```
-	1. Please change the name of the repo you used to "intro_to_data_science_2017_history"
+	if you need to keep anything in the repo you forked before:
+		let me know. We will figure out a way to preserve yours. (you can keep a local copy and move the ones you want to a the new fork later.)
+	else:
+	do the following
+	1. Please delete the repo you forked before. (delete the local copy as well if you wish. you don't have to.)
 	2. Fork my repo again. 
-	Due to student turn over we experienced in the past, we will gather and contribute all teams' work back to class repo on the last day of the class.
+	Due to student turn over we experienced in the past, we will gather and contribute all teams' work back to class repo on the last day of the bootcamp.
 	```
 
 ## Python fundamental
